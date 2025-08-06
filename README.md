@@ -20,9 +20,4 @@ RevMotion, temel olarak bir **oto galeri vitrini** sunuyor ve geliştirilmeye a�
 - HTML5  
 - CSS3 (özellikle animasyonlar, geçiş efektleri ve grid/flex yerleşimi)
 
-## 🚀 Projeyi Görüntülemek
 
-Projeyi bilgisayarınıza indirip görüntülemek için:
-
-```bash
-git clone https://github.com/REV-Codes/automotion.git
